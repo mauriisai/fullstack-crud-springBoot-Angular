@@ -1,6 +1,7 @@
 # CrudEmpleados - Web App FullStack 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+This project was generated with [Spring Boot 3](https://start.spring.io/) version 3.1.2.
 
 ## Development server
 
